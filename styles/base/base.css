@@ -1,0 +1,19 @@
+.calculator-body {
+    align-items: center;
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    width: 100%
+}
+
+
+.calc-wrapper {
+    height: 600px;
+    width: 400px;
+}
+
+
+.row {
+    align-items: flex;
+    width: 100%;
+}
